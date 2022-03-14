@@ -148,7 +148,7 @@ body {
   display: none;
 }
 
-@media (max-width: 313px) {
+@media (max-width: 330px) {
   .app-main {
     width: 40vh;
   }
