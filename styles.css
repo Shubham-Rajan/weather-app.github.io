@@ -139,11 +139,11 @@ body {
 }
 .other-info-value {
   display: flex;
-  /* justify-content: space-between; */
+  justify-content: space-between;
   color: #582233;
   font-size: 12pt;
   font-weight: 600;
-  gap: 3.6rem;
+  /* gap: 3.6rem; */
   margin-left: 0.7rem;
   display: none;
 }
